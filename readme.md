@@ -37,7 +37,7 @@ conda activate imageTo3D
 
 ```
 
-3.  **Navigate to the model's API directory and install dependencies**:
+3.  **Install dependencies**:
 
 ```
 
